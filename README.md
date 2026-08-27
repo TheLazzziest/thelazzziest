@@ -1,9 +1,12 @@
 [![An image of @thelazzziest's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thelazzziest)](https://holopin.io/@thelazzziest)
 
-### Hi there 👋
+Backend engineer building data-centric apps and data tooling, with production LLM/AI integration.
 
-- 🔭 I'm working on data-centric backends and AI platforms.
-- 🌱 I'm learning healthtech: FHIR, HL7, Open mHealth, etc; to explore and build tooling for health data apps.
-- 👯 I'm open to collaborating on data tooling and AI infra.
-- 💬 Ask me about async Python, event-driven systems, AI, data tools.
-- ⚡ I prefer the parts nobody notices.
+### What I do
+
+I build the backend systems that move and make sense of data — high-load async Python services, event-driven architectures, and the platform tooling data teams rely on. I also ship AI features to production, not just demos. Mostly Python and Go.
+
+### Open source
+
+- **[pyverge](https://github.com/JoHa-HQ/pyverge)** — schema evolution and migration engine for versioned data models
+- **[dlt](https://github.com/dlt-hub/dlt)** — open-source data loading library for Python
