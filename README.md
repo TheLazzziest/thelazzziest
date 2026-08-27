@@ -1,4 +1,4 @@
-[![An image of @thelazzziest's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thelazzsiest)](https://holopin.io/@thelazzziest)
+[![An image of @thelazzziest's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thelazzziest)](https://holopin.io/@thelazzziest)
 
 ### Hi there 👋
 
